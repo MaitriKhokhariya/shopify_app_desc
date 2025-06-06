@@ -1,0 +1,31 @@
+------------------------
+Product bundle
+------------------------
+
+==> app icon :
+	 
+
+==> category :
+	Product bundle App
+
+==> language(English)
+
+==> content detail:
+	
+	Create and sell custom product bundles with fixed pricing directly on your Shopify store.	
+
+==> App Details:
+
+	This Shopify app allows store admins to create custom product bundles with a fixed price.
+ Admins can select multiple products, set a unique bundle price, and display it on the storefront.
+Customers can view and purchase the bundle directly from the product page. 
+When the "Buy Bundle" button is clicked, all items are added to the cart with the 
+custom bundle price applied, ensuring a seamless and engaging shopping experience.
+ 
+
+  
+
+  
+
+ 
+	
