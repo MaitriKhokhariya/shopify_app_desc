@@ -1,20 +1,4 @@
- 
- Category:         
-	Offer Popup 
-
-
- Content Deatils :
-	Showcase live discounts on products instantly to attract more customers and boost your sales.
-
-App Details: 
-	This app automatically displays live discounts offer on your Shopify store’s  product pages. Whether it's percentage-based, fixed amount.
- your customers will see real-time pricing without needing to apply coupons. Easy to install with no coding required, it works seamlessly with all themes. A great tool to create urgency,
-improve conversions, and   boost customer trust with clear discount visibility. 
-
-
-
-
-  
+   
 Category  ::
 	  Product bundle
 
